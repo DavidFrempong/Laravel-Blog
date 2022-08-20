@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+nav{
+    padding: 50px 0px;
+}
+
+nav a {
+    border: 2px solid #000;
+    padding: 7px 20px;
+    border-radius: 30px;
+}
